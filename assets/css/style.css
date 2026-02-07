@@ -1,0 +1,50 @@
+/* ---------- Body ---------- */
+body {
+  font-family: Arial;
+  background: #f4f7fb;      /* light blue background */
+  text-align: center;       /* center content */
+  color: #34495e;           /* default text color */
+  padding: 20px;
+}
+
+/* ---------- Headings ---------- */
+h1 {
+  color: #1a237e;           /* dark blue */
+}
+
+h2 {
+  color: #0d47a1;           /* blue sub-headings */
+}
+
+/* ---------- Paragraph ---------- */
+p {
+  color: #455a64;           /* cool gray */
+  line-height: 1.6;
+}
+
+/* ---------- Images ---------- */
+img {
+  width: 200px;
+  border-radius: 10px;       /* smooth corners */
+  border: 3px solid #3498db; /* blue border */
+  margin: 10px 0;
+}
+
+/* ---------- Unordered List ---------- */
+ul {
+  list-style-type: disc;      /* standard dots */
+  text-align: left;           /* list text aligned left */
+  display: inline-block;      /* keeps list centered on page */
+  padding-left: 20px;         /* space for bullets */
+  margin: 20px 0;
+}
+
+li {
+  color: #455a64;
+  margin: 5px 0;
+}
+
+/* ---------- Optional highlight text ---------- */
+span {
+  color: #e67e22;            /* orange highlight */
+}
